@@ -11,5 +11,4 @@ Shit
 test
 fansta
 tomaten
-Bier
-
+Linzer Bier
